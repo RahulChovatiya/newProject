@@ -1,0 +1,21 @@
+/* .btn {
+    @apply relative text-[17px] uppercase no-underline inline-block transition-all duration-[0.2s] font-medium text-[black] bg-[white] px-[2.5em] py-[1em] rounded-[6em] border-[none];
+    font-family: inherit;
+}
+
+.btn:hover {
+    @apply translate-y-[-3px] shadow-lg;
+}
+
+.btn:active {
+    @apply -translate-y-px shadow-sm;
+}
+
+.btn::after {
+    @apply content-[""] inline-block h-full w-full absolute z-[-1] transition-all duration-[0.4s] rounded-[100px] left-0 top-0;
+    @apply bg-white;
+}
+
+.btn:hover::after {
+    @apply opacity-0 scale-x-[1.4] scale-y-[1.6];
+} */
